@@ -39,6 +39,7 @@ setup(
         "Pillow>=6.2.2",
         "pytest>=4.6.9",
         "pycryptodome>=3.9.7",
+        "pycryptodomex>=3.9.7",
         "rsa>=3.4.2",
     ],
     classifiers=[
