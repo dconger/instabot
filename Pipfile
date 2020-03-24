@@ -18,6 +18,9 @@ responses = "*"
 six = "*"
 huepy = "*"
 pytz = "*"
+pycryptodome = "*"
+pycryptodomex = "*"
+rsa = "*"
 
 [requires]
 python_version = "3.7"
