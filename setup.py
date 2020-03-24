@@ -17,7 +17,7 @@ setup(
     author="Daniil Okhlopkov, Evgeny Kemerov",
     author_email="danokhlopkov@gmail.com, eskemerov@gmail.com",
     license="Apache Software License 2.0",
-    url="https://github.com/instagrambot/instabot",
+    url="https://github.com/dconger/instabot",
     keywords=["instagram", "bot", "api", "wrapper"],
     install_requires=[
         "certifi>=2019.11.28",
@@ -39,6 +39,7 @@ setup(
         "Pillow>=6.2.2",
         "pytest>=4.6.9",
         "pycryptodome>=3.9.7",
+        "rsa>=3.4.2",
     ],
     classifiers=[
         # How mature is this project? Common values are
